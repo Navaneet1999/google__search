@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+}
+
+.image{
+   width: 200px;
+   height: 60px;
+}
+
+#navbar{
+    align-content: space-between;
+}

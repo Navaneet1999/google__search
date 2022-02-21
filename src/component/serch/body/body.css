@@ -1,0 +1,14 @@
+.cent{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+.box{
+    padding-bottom: 30px;
+}
+
+.desc{
+    text-align: left;
+    margin-left: 50px;
+}
